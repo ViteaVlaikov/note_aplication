@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="add_button">Add button</string>
+    <string name="title">Title</string>
+    <string name="pin_button">Pin button</string>
+    <string name="note">Note</string>
+    <string name="date">Date</string>
+    <string name="save_icon">Save_icon</string>
+    <string name="enter_text">Enter text:</string>
+    <string name="pin_unpin">Pin/Unpin</string>
+    <string name="delete">Delete</string>
+</resources>
